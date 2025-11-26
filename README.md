@@ -1,7 +1,9 @@
 # BMI Calculator
 ## About this project
-A simple BMI Calculator built using HTML, CSS and JavaScript.
+This is a simple BMI Calculator made using HTML, CSS, and JavaScript.  
+It calculates Body Mass Index using height (cm) and weight (kg).
 
 ## What is BMI?
-BMI (Body Mass Index) shows whether a person is underweight, normal, overweight, or obese.
+BMI (Body Mass Index) is a value that shows if a person is underweight, normal, overweight, or obese.
+
 
